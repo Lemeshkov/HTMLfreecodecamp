@@ -1,11 +1,14 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../HTMLfrecodecamp"
-	}
-],
+    {
+      "path": "."
+    },
+    {
+      "path": "../HTMLfrecodecamp"
+    },
+    {
+      "path": "../codewars"
+    }
+  ],
   "settings": {}
 }
